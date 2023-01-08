@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hexo</title>
+  
+  
+  <link href="http://996jack555.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://996jack555.github.io/"/>
+  <updated>2023-01-08T13:17:16.307Z</updated>
+  <id>http://996jack555.github.io/</id>
+  
+  <author>
+    <name>jackz</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2023年个人简历</title>
+    <link href="http://996jack555.github.io/2023/01/08/hello-world/"/>
+    <id>http://996jack555.github.io/2023/01/08/hello-world/</id>
+    <published>2023-01-08T12:57:26.000Z</published>
+    <updated>2023-01-08T13:17:16.307Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h1><hr><ul><li><p>张家乐/男/2003 </p></li><li><p>本科/常州工学院计算机系 </p></li><li><p>目前：大三在读</p></li><li><p>技术博客：<a href="http://www.yanzifushi.xyz/">www.yanzifushi.xyz</a></p></li><li><p>Github：<a href="http://github.com/996jack555">http://github.com/996jack555</a> </p></li><li><p>期望职位：C语言开发实习生,java web后端开发实习生</p></li><li><p>期望薪资：暂不考虑</p></li><li><p>期望城市：常州新北附近</p></li></ul><h1 id="比赛和项目经历"><a href="#比赛和项目经历" class="headerlink" title="比赛和项目经历"></a>比赛和项目经历</h1><h3 id="ROBCOM智慧果园"><a href="#ROBCOM智慧果园" class="headerlink" title="ROBCOM智慧果园"></a>ROBCOM智慧果园</h3><ul><li>担任社团社长及项目组组长，统筹整个社团的所有项目进度。主要是负责下位机<em>stm32编程</em>改良和python的<em>opencv2</em>库运用代码的编写。遗憾的是，我们小组的机械车由于灰度传感器临时故障，无缘省赛，最后获得省级三等奖。</li></ul><h3 id="五一数学建模"><a href="#五一数学建模" class="headerlink" title="五一数学建模"></a>五一数学建模</h3><ul><li>参加五一数学建模比赛并担任组长，学会了latex，matlab,SPSS基本使用方法，期间主要负责论文的撰写和算法实现。(可惜未获奖)</li></ul><h3 id="计算机设计大赛"><a href="#计算机设计大赛" class="headerlink" title="计算机设计大赛"></a>计算机设计大赛</h3><ul><li>担任组长，参与设计<em>VSDL</em>链式网桥项目的设计和制作。主要是为了解决最后一公里问题，适用于某些极端情况下。由于对板子了解较少，以及时间仓促（只有五天）最终只获得参赛奖。</li></ul><h3 id="暑期实训"><a href="#暑期实训" class="headerlink" title="暑期实训"></a>暑期实训</h3><ul><li>担任C语言实训组长开发了第一个C语言项目，<em>图书管理系统</em>，代码量1000行左右，主要是基本的文件读取和根据结构体数组的增删改查。.  </li><li>担任人工智能实训组长，关于<em>python爬虫技术</em>，爬取京东商城商品详细信息。（在今年爆火的羊了个羊中，由于其用户uid具有递增属性，可以通过爬虫技术来爬取其中用户信息）.  </li><li>担任java实训组组长,主要是关于DAO接口的用法和对面向对象的讲解,<em>java图书管理系统</em>.  </li><li>担任嵌入式实训组组长,主要是关于嵌入式微型可移植系统的C/C++代码编写。.</li></ul><h3 id="Java-Web项目"><a href="#Java-Web项目" class="headerlink" title="Java Web项目"></a>Java Web项目</h3><ul><li>spring Boot Web项目,通过jsp实现动态网页技术,jdbc链接mysql数据库。实现一个网页版图书管理系统。</li></ul><h2 id="个人爱好"><a href="#个人爱好" class="headerlink" title="个人爱好"></a>个人爱好</h2><h3 id="骑行"><a href="#骑行" class="headerlink" title="骑行"></a>骑行</h3><ul><li>2022年暑假完成了318的川藏线骑行<br><img src="https://i.328888.xyz/2023/01/08/0Z3h8.jpeg" alt="318骑行" title="318骑行"></li><li>平时周末喜欢和同学骑行80公里左右去看看不同地方的风景<br><img src="https://i.328888.xyz/2023/01/08/0ZgkE.jpeg" alt="茅山问道" title="茅山问道-道长只说元"></li></ul><h3 id="健身"><a href="#健身" class="headerlink" title="健身"></a>健身</h3><ul><li>每周至少去健身房三次保持良好的身体状态</li></ul><h3 id="研究新奇的技术"><a href="#研究新奇的技术" class="headerlink" title="研究新奇的技术"></a>研究新奇的技术</h3><ul><li>每天通过各种论坛和blog来获取最新的技术咨询</li></ul><h2 id="开源项目"><a href="#开源项目" class="headerlink" title="开源项目"></a>开源项目</h2><p>Github：<a href="http://github.com/996jack555">http://github.com/996jack555</a> </p><h1 id="技能清单"><a href="#技能清单" class="headerlink" title="技能清单"></a>技能清单</h1><p>以下均为我熟练使用的技能</p><ul><li>Web开发：JSP,HTML</li><li>Web框架：Spring-Java</li><li>前端框架：Node.Js略懂</li><li>前端工具：Visual Studio Code/Git/ Npm</li><li>数据库相关：MySQL</li><li>版本管理、文档和自动化部署工具：Git</li><li>单元测试：x64dbg</li><li>云和开放平台：微信应用开发</li></ul><h1 id="联系方式"><a href="#联系方式" class="headerlink" title="联系方式"></a>联系方式</h1><ul><li>手机：13196732271 (微信同号)</li><li>Email：<a href="mailto:20030234@czu.cn">20030234@czu.cn</a> </li><li>QQ：3063747006</li></ul><hr><h1 id="致谢"><a href="#致谢" class="headerlink" title="致谢"></a>致谢</h1><p>感谢您花时间阅读我的简历，期待能有机会和您共事。      </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;个人信息&quot;&gt;&lt;a href=&quot;#个人信息&quot; class=&quot;headerlink&quot; title=&quot;个人信息&quot;&gt;&lt;/a&gt;个人信息&lt;/h1&gt;&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;张家乐/男/2003 &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;本科/常州工学院计算机系 &lt;/p&gt;
+&lt;</summary>
+      
+    
+    
+    
+    <category term="简历" scheme="http://996jack555.github.io/categories/%E7%AE%80%E5%8E%86/"/>
+    
+    
+    <category term="-简历" scheme="http://996jack555.github.io/tags/%E7%AE%80%E5%8E%86/"/>
+    
+  </entry>
+  
+</feed>
